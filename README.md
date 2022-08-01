@@ -4,7 +4,7 @@
 - 👀 Estoy buscando mi primer trabajo en la industria TI como programador Full-Stack.
 - 🌱 Actualmente estoy haciendo un curso para obtener la certificación de Machine Learning Engineer
 
-- 📫 Me puedes ubicar en cpainec@gmail.com o en LinkedIn
+- 📫 Me puedes ubicar en cpainec [at] gmail.com o en LinkedIn
 
 
 
