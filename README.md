@@ -3,7 +3,7 @@
 - 👋 Hola, yo soy @cpainec.
 - 👀 Estoy buscando mi primer trabajo en la industria TI como programador Full-Stack.
 - 🌱 Actualmente estoy haciendo un curso para obtener la certificación de Google Machine Learning Engineer.
-- 🐱‍👤 Mis intereses: Math, Data science, home brew, music.
+- 🐱‍👤 Mis intereses: Math, data science, home brew, music.
 - 📫 Me puedes ubicar en cpainec [at] gmail.com o en LinkedIn.
 
 
