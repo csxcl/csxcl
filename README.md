@@ -1,10 +1,10 @@
 <img src="https://i.ibb.co/vLJ36xM/emoji-izq.png" width="70" height="70" >
 
-- 👋 Hola, yo soy @cpainec 
+- 👋 Hola, yo soy @cpainec.
 - 👀 Estoy buscando mi primer trabajo en la industria TI como programador Full-Stack.
-- 🌱 Actualmente estoy haciendo un curso para obtener la certificación de Machine Learning Engineer
-
-- 📫 Me puedes ubicar en cpainec [at] gmail.com o en LinkedIn
+- 🌱 Actualmente estoy haciendo un curso para obtener la certificación de Google Machine Learning Engineer.
+- 🐱‍👤 Mis intereses: Math, Home brew, music.
+- 📫 Me puedes ubicar en cpainec [at] gmail.com o en LinkedIn.
 
 
 
